@@ -1,5 +1,8 @@
 # Lending Club Case Study
 
+- Analyze the given data and Perform EDA
+- To Attain a solution to the given business statement
+
 
 
 
