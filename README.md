@@ -1,11 +1,15 @@
 # Lending Club Case Study
 
 
+
+
 ## Table of Contents
 
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
+
+
 
 
 ## General Information
@@ -23,6 +27,8 @@
 - The Data set that has been used is Loan.csv file
 
 
+
+
 ## Conclusions
 
 - There are Multiple factors that affect the Charged off status few of them are
@@ -31,11 +37,14 @@
     3) Loan Amount Given etc
 
 
+
+
 ## Technologies Used
 - Python 3.10.1
 - Pandas 1.3.5
 - seaborn 0.11.2
 - Matplotlib 3.5.1 
+
 
 
 ## Contact
